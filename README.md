@@ -3,7 +3,8 @@ A repository for all the Scratch projects I have worked on!
 
 There are two projects in this repository that I have worked on; <br>
 A game called "The Space Game" [Game Development] <br>
-And a Graphic where I animated my name [Animation/Graphics]<br><br><br>
+And a Graphic where I animated my name [Animation/Graphics]<br><br>
+Download the HTML files to run the projects in your web browser or the sb3 files to load them into your Scratch profile<br><br><br>
 1. The following image contains the Code Blocks of "The Space Game" i created: <br><br>
 <img width="258" alt="image" src="https://github.com/Nitin-Sagar-B/scratch.mit.edu-projects/assets/100074728/74dbe380-a2b2-4199-a003-816f72875618"> <br>
 There are three blocks of code written to construct this simple game;<br>
